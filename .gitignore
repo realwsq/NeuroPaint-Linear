@@ -1,2 +1,16 @@
 *_res/
 *_data/
+.DS_Store
+__pycache__
+data
+*.safetensors
+*.pt
+wandb
+.git_diff.txt
+.log
+tests/*.log
+*.patch
+c*.yaml
+lm_eval_out
+target
+
